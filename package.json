@@ -1,0 +1,32 @@
+{
+  "name": "is-true-ish",
+  "version": "0.0.1",
+  "description": "Returns true if a string is tru-ish, that is, yes|y|true|t|on|1|ok, case insensitive",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "string",
+    "boolean",
+    "true",
+    "test",
+    "yes",
+    "on",
+    "ok"
+  ],
+  "author": {
+    "name": "Andreas Pizsa",
+    "url": "http://github.com/AndreasPizsa"
+  },
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/AndreasPizsa/is-true-ish.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "random-strings": "0.0.1",
+    "verb": "^0.2.15"
+  }
+}
