@@ -1,7 +1,7 @@
 # This package has been retired. Please use [is-affirmative](https://www.npmjs.com/package/is-affirmative) instead, it’s an excellent and actively maintained replacement. 
 
 # is-true-ish [![NPM version](https://badge.fury.io/js/is-true-ish.svg)](http://badge.fury.io/js/is-true-ish)
-  [![Build Status](https://travis-ci.org/AndreasPizsa/is-true-ish.svg)](https://travis-ci.org/AndreasPizsa/is-true-ish)
+  [![Build Status](https://travis-ci.org/AndreasPizsa/is-true-ish.svg)](https://travis-ci.org/AndreasPizsa/is-true-ish) [![Greenkeeper badge](https://badges.greenkeeper.io/AndreasPizsa/is-true-ish.svg)](https://greenkeeper.io/)
 
 > Returns true if a string is tru-ish, that is, yes|y|true|t|on|1|ok, case insensitive
 
